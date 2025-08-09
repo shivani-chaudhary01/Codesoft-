@@ -44,4 +44,3 @@ After the round, choose whether to play again.
 
 ** Total score is displayed after all rounds.
 # Example output 
-https://github-production-user-asset-6210df.s3.amazonaws.com/186131967/474075046-d892d59b-b5a4-4bbe-812b-ed0cd53f5d4a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250809%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250809T190026Z&X-Amz-Expires=300&X-Amz-Signature=b17289bbe43f63f3985661565da4cca1c9300b8549b0493cc807fb991177fba0&X-Amz-SignedHeaders=host
