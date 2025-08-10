@@ -44,3 +44,5 @@ After the round, choose whether to play again.
 
 ** Total score is displayed after all rounds.
 # Example output 
+
+<img width="431" height="581" alt="Screenshot 2025-08-10 143203" src="https://github.com/user-attachments/assets/d4a00175-163b-457f-ab20-afc621e7df3f" />
